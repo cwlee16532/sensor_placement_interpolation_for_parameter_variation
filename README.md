@@ -25,7 +25,7 @@ However, conventional deterministic methods often fail to remain optimal when st
 
 This work proposes a **Sensor Placement Interpolation (SPI)** scheme that provides robust triaxial accelerometer layouts under expected parameter variations.
 <p align="center">
-  <img src="docs/fig_param_variation.jpg" width="700">
+  <img src="figures/overview.png" width="700">
 </p>
 
 ## ⚙️ Algorithm Overview
@@ -37,7 +37,7 @@ The proposed SPI framework extends:
 - Scenario-weighted interpolation of Fisher Information
 
 <p align="center">
-  <img src="docs/fig_flowchart.jpg" width="850">
+  <img src="figures/flow chart.png" width="850">
 </p>
 
 Main steps:
