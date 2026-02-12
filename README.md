@@ -1,7 +1,5 @@
-# sensor_placement_interpolation_for_parameter_variation
-MATLAB implementation of a Sensor Placement Interpolation (SPI) scheme for robust triaxial accelerometer optimal sensor placement under parametric variation. Includes EFI3+, redundancy filtering, and performance evaluation via det(FIM), MAC, and condition number.
-
 # Sensor Placement Interpolation for Parameter Variation
+MATLAB implementation of a Sensor Placement Interpolation (SPI) scheme for robust triaxial accelerometer optimal sensor placement under parametric variation. Includes EFI3+, redundancy filtering, and performance evaluation via det(FIM), MAC, and condition number.
 
 <p align="center">
   <img src="docs/fig_overview.jpg" width="800">
