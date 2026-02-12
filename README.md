@@ -52,3 +52,56 @@ Workflow:
   <img src="figures/flow chart.png" width="500">
 </p>
 
+## 🚀 Running the Code
+
+To reproduce the proposed Sensor Placement Interpolation (SPI) results and performance evaluation, run the following main scripts:
+
+- `main_SPI.m`  
+  → Executes the proposed SPI algorithm and generates robust sensor placement results under parametric variations.
+
+- `main_OSP_evaluation.m`  
+  → Evaluates the placement performance using det(FIM), MAC-based metrics, and the condition number of the Fisher Information Matrix.
+
+---
+
+## 📌 Case Study: 5-Story Frame Structure
+
+The SPI framework is demonstrated using a high-fidelity 3D FE model of a laboratory-scale 5-story steel frame structure.
+
+<p align="left">
+  <img src="figures/FEmodel_5f_high.png" width="600">
+</p>
+
+- (a) FE model of the 5-story frame structure, (b) candidate sensor nodes highlighted in red, and (c) parametric variation region highlighted in yellow under stiffness degradation scenarios.
+
+---
+
+### Target Modes Under Damage Scenarios
+
+Target vibration modes are selected under three stiffness conditions:
+
+- Intact case (100%)
+- Damaged case #1 (60%)
+- Damaged case #2 (20%)
+
+<p align="left">
+  <img src="figures/targetModes_5f.png" width="700">
+</p>
+
+- Mode shape evolution and emergence of torsional behavior under parameter variation.
+
+---
+
+### Sensor Placement Results and Performance
+
+SPI is compared with deterministic EFI-based placements (EFI100, EFI60, EFI20).  
+The proposed SPI method provides more robust information content across all scenarios.
+
+<p align="left">
+  <img src="figures/Det_case_5f.png" width="700">
+</p>
+
+- Sensor placement layouts and det(FIM) performance comparison under multiple parameter cases.
+
+---
+
