@@ -12,7 +12,8 @@ This repository provides MATLAB codes for the following paper:
 **Chanwoo Lee**, Youjin Kim, and Hyung-Jo Jung (2025)  
 *Sensor placement interpolation scheme for modal identification under parametric variation in infrastructure*  
 Structure and Infrastructure Engineering  
-DOI: 10.1080/15732479.2025.2579824
+DOI: [10.1080/15732479.2025.2579824](https://www.tandfonline.com/doi/full/10.1080/15732479.2025.2579824)
+
 
 ---
 
