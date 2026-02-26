@@ -102,4 +102,3 @@ The proposed SPI method provides more robust information content and improved st
 
 This repository contains original MATLAB implementation codes developed by the author.  
 The published journal article is not redistributed here.  
-Please refer to the official journal website via the DOI link for the Version of Record.
