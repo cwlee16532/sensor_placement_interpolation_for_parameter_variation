@@ -9,9 +9,9 @@ The framework incorporates EFI3+, redundancy filtering, and performance evaluati
 
 This repository provides MATLAB codes for the following paper:
 
-**Chanwoo Lee**, Youjin Kim, and Hyung-Jo Jung (2025)  
+**Chanwoo Lee**, Youjin Kim, and Hyung-Jo Jung
 *Sensor placement interpolation scheme for modal identification under parametric variation in infrastructure*  
-Structure and Infrastructure Engineering  
+Structure and Infrastructure Engineering (2025)    
 DOI: [10.1080/15732479.2025.2579824](https://www.tandfonline.com/doi/full/10.1080/15732479.2025.2579824)
 
 
